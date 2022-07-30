@@ -1,0 +1,17 @@
+ML - Machine learning
+What is Machine learning??
+    - In simple words when a machine learns some tasks to perform on its own, its called machine learning. 
+
+Now a formal definition for Machine learning would be - 
+      "A field of study that gives computers the ability to learn without being explicitly programmed." And this definition was given by Arthur Samuel who was a pioneer in the this field.
+
+A machine is given time to repeatedly do the same task over a long period, so that it understands the flaws in the given algorithm and learns from it. 
+
+Hence, the more opportunities you give to a learning algorithm to learn, the better it will perform.
+
+
+In Machine learning, we have two types i.e.,
+          -  Supervised learning
+          -  Unsupervised learning
+
+Among them Supervised learning is widely used in the industries like robotics and is in rapid advancement phase, whereas Unsupervised learning is also used but in lesser capacity when compared to supervised learning.
